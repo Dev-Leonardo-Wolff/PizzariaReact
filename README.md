@@ -10,7 +10,7 @@
 + cd server
 + npm update
 
-### utilizando dois terminais
+### utilizando dois terminais para iniciar o projeto
 
 #### dentro da pasta 'server' use o comando
 + npm start
